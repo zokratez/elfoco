@@ -3,7 +3,7 @@ Da Foco Website
 
 #Description
 
-This is da' foco Website front end Web Dev
+This is da' foco's Website Front-end Web Dev
 
 # Contact
 
